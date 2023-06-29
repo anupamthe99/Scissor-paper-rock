@@ -94,6 +94,7 @@ div.fadeIn {
     pointer-events: all;
 }
 
+/*  animations for shaking hands */
 @keyframes shakePlayer {
     0% {
         transform: rotateY(180deg)translate(0px);
